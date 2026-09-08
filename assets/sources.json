@@ -1,0 +1,396 @@
+{
+  "collection": "https://commons.wikimedia.org/wiki/Category:Rider-Waite-Smith_tarot_deck_(TaionWC)",
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "cards": [
+    {
+      "id": "major-00",
+      "name_en": "The Fool",
+      "source_page": "https://commons.wikimedia.org/wiki/File:RWS_Tarot_00_Fool.jpg"
+    },
+    {
+      "id": "major-01",
+      "name_en": "The Magician",
+      "source_page": "https://commons.wikimedia.org/wiki/File:RWS_Tarot_01_Magician.jpg"
+    },
+    {
+      "id": "major-02",
+      "name_en": "The High Priestess",
+      "source_page": "https://commons.wikimedia.org/wiki/File:RWS_Tarot_02_High_Priestess.jpg"
+    },
+    {
+      "id": "major-03",
+      "name_en": "The Empress",
+      "source_page": "https://commons.wikimedia.org/wiki/File:RWS_Tarot_03_Empress.jpg"
+    },
+    {
+      "id": "major-04",
+      "name_en": "The Emperor",
+      "source_page": "https://commons.wikimedia.org/wiki/File:RWS_Tarot_04_Emperor.jpg"
+    },
+    {
+      "id": "major-05",
+      "name_en": "The Hierophant",
+      "source_page": "https://commons.wikimedia.org/wiki/File:RWS_Tarot_05_Hierophant.jpg"
+    },
+    {
+      "id": "major-06",
+      "name_en": "The Lovers",
+      "source_page": "https://commons.wikimedia.org/wiki/File:RWS_Tarot_06_Lovers.jpg"
+    },
+    {
+      "id": "major-07",
+      "name_en": "The Chariot",
+      "source_page": "https://commons.wikimedia.org/wiki/File:RWS_Tarot_07_Chariot.jpg"
+    },
+    {
+      "id": "major-08",
+      "name_en": "Strength",
+      "source_page": "https://commons.wikimedia.org/wiki/File:RWS_Tarot_08_Strength.jpg"
+    },
+    {
+      "id": "major-09",
+      "name_en": "The Hermit",
+      "source_page": "https://commons.wikimedia.org/wiki/File:RWS_Tarot_09_Hermit.jpg"
+    },
+    {
+      "id": "major-10",
+      "name_en": "Wheel of Fortune",
+      "source_page": "https://commons.wikimedia.org/wiki/File:RWS_Tarot_10_Wheel_of_Fortune.jpg"
+    },
+    {
+      "id": "major-11",
+      "name_en": "Justice",
+      "source_page": "https://commons.wikimedia.org/wiki/File:RWS_Tarot_11_Justice.jpg"
+    },
+    {
+      "id": "major-12",
+      "name_en": "The Hanged Man",
+      "source_page": "https://commons.wikimedia.org/wiki/File:RWS_Tarot_12_Hanged_Man.jpg"
+    },
+    {
+      "id": "major-13",
+      "name_en": "Death",
+      "source_page": "https://commons.wikimedia.org/wiki/File:RWS_Tarot_13_Death.jpg"
+    },
+    {
+      "id": "major-14",
+      "name_en": "Temperance",
+      "source_page": "https://commons.wikimedia.org/wiki/File:RWS_Tarot_14_Temperance.jpg"
+    },
+    {
+      "id": "major-15",
+      "name_en": "The Devil",
+      "source_page": "https://commons.wikimedia.org/wiki/File:RWS_Tarot_15_Devil.jpg"
+    },
+    {
+      "id": "major-16",
+      "name_en": "The Tower",
+      "source_page": "https://commons.wikimedia.org/wiki/File:RWS_Tarot_16_Tower.jpg"
+    },
+    {
+      "id": "major-17",
+      "name_en": "The Star",
+      "source_page": "https://commons.wikimedia.org/wiki/File:RWS_Tarot_17_Star.jpg"
+    },
+    {
+      "id": "major-18",
+      "name_en": "The Moon",
+      "source_page": "https://commons.wikimedia.org/wiki/File:RWS_Tarot_18_Moon.jpg"
+    },
+    {
+      "id": "major-19",
+      "name_en": "The Sun",
+      "source_page": "https://commons.wikimedia.org/wiki/File:RWS_Tarot_19_Sun.jpg"
+    },
+    {
+      "id": "major-20",
+      "name_en": "Judgement",
+      "source_page": "https://commons.wikimedia.org/wiki/File:RWS_Tarot_20_Judgement.jpg"
+    },
+    {
+      "id": "major-21",
+      "name_en": "The World",
+      "source_page": "https://commons.wikimedia.org/wiki/File:RWS_Tarot_21_World.jpg"
+    },
+    {
+      "id": "wands-01",
+      "name_en": "Ace of Wands",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Wands01.jpg"
+    },
+    {
+      "id": "wands-02",
+      "name_en": "Two of Wands",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Wands02.jpg"
+    },
+    {
+      "id": "wands-03",
+      "name_en": "Three of Wands",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Wands03.jpg"
+    },
+    {
+      "id": "wands-04",
+      "name_en": "Four of Wands",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Wands04.jpg"
+    },
+    {
+      "id": "wands-05",
+      "name_en": "Five of Wands",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Wands05.jpg"
+    },
+    {
+      "id": "wands-06",
+      "name_en": "Six of Wands",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Wands06.jpg"
+    },
+    {
+      "id": "wands-07",
+      "name_en": "Seven of Wands",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Wands07.jpg"
+    },
+    {
+      "id": "wands-08",
+      "name_en": "Eight of Wands",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Wands08.jpg"
+    },
+    {
+      "id": "wands-09",
+      "name_en": "Nine of Wands",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Wands09.jpg"
+    },
+    {
+      "id": "wands-10",
+      "name_en": "Ten of Wands",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Wands10.jpg"
+    },
+    {
+      "id": "wands-11",
+      "name_en": "Page of Wands",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Wands11.jpg"
+    },
+    {
+      "id": "wands-12",
+      "name_en": "Knight of Wands",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Wands12.jpg"
+    },
+    {
+      "id": "wands-13",
+      "name_en": "Queen of Wands",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Wands13.jpg"
+    },
+    {
+      "id": "wands-14",
+      "name_en": "King of Wands",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Wands14.jpg"
+    },
+    {
+      "id": "cups-01",
+      "name_en": "Ace of Cups",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Cups01.jpg"
+    },
+    {
+      "id": "cups-02",
+      "name_en": "Two of Cups",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Cups02.jpg"
+    },
+    {
+      "id": "cups-03",
+      "name_en": "Three of Cups",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Cups03.jpg"
+    },
+    {
+      "id": "cups-04",
+      "name_en": "Four of Cups",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Cups04.jpg"
+    },
+    {
+      "id": "cups-05",
+      "name_en": "Five of Cups",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Cups05.jpg"
+    },
+    {
+      "id": "cups-06",
+      "name_en": "Six of Cups",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Cups06.jpg"
+    },
+    {
+      "id": "cups-07",
+      "name_en": "Seven of Cups",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Cups07.jpg"
+    },
+    {
+      "id": "cups-08",
+      "name_en": "Eight of Cups",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Cups08.jpg"
+    },
+    {
+      "id": "cups-09",
+      "name_en": "Nine of Cups",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Cups09.jpg"
+    },
+    {
+      "id": "cups-10",
+      "name_en": "Ten of Cups",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Cups10.jpg"
+    },
+    {
+      "id": "cups-11",
+      "name_en": "Page of Cups",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Cups11.jpg"
+    },
+    {
+      "id": "cups-12",
+      "name_en": "Knight of Cups",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Cups12.jpg"
+    },
+    {
+      "id": "cups-13",
+      "name_en": "Queen of Cups",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Cups13.jpg"
+    },
+    {
+      "id": "cups-14",
+      "name_en": "King of Cups",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Cups14.jpg"
+    },
+    {
+      "id": "swords-01",
+      "name_en": "Ace of Swords",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Swords01.jpg"
+    },
+    {
+      "id": "swords-02",
+      "name_en": "Two of Swords",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Swords02.jpg"
+    },
+    {
+      "id": "swords-03",
+      "name_en": "Three of Swords",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Swords03.jpg"
+    },
+    {
+      "id": "swords-04",
+      "name_en": "Four of Swords",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Swords04.jpg"
+    },
+    {
+      "id": "swords-05",
+      "name_en": "Five of Swords",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Swords05.jpg"
+    },
+    {
+      "id": "swords-06",
+      "name_en": "Six of Swords",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Swords06.jpg"
+    },
+    {
+      "id": "swords-07",
+      "name_en": "Seven of Swords",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Swords07.jpg"
+    },
+    {
+      "id": "swords-08",
+      "name_en": "Eight of Swords",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Swords08.jpg"
+    },
+    {
+      "id": "swords-09",
+      "name_en": "Nine of Swords",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Swords09.jpg"
+    },
+    {
+      "id": "swords-10",
+      "name_en": "Ten of Swords",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Swords10.jpg"
+    },
+    {
+      "id": "swords-11",
+      "name_en": "Page of Swords",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Swords11.jpg"
+    },
+    {
+      "id": "swords-12",
+      "name_en": "Knight of Swords",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Swords12.jpg"
+    },
+    {
+      "id": "swords-13",
+      "name_en": "Queen of Swords",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Swords13.jpg"
+    },
+    {
+      "id": "swords-14",
+      "name_en": "King of Swords",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Swords14.jpg"
+    },
+    {
+      "id": "pentacles-01",
+      "name_en": "Ace of Pentacles",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Pents01.jpg"
+    },
+    {
+      "id": "pentacles-02",
+      "name_en": "Two of Pentacles",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Pents02.jpg"
+    },
+    {
+      "id": "pentacles-03",
+      "name_en": "Three of Pentacles",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Pents03.jpg"
+    },
+    {
+      "id": "pentacles-04",
+      "name_en": "Four of Pentacles",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Pents04.jpg"
+    },
+    {
+      "id": "pentacles-05",
+      "name_en": "Five of Pentacles",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Pents05.jpg"
+    },
+    {
+      "id": "pentacles-06",
+      "name_en": "Six of Pentacles",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Pents06.jpg"
+    },
+    {
+      "id": "pentacles-07",
+      "name_en": "Seven of Pentacles",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Pents07.jpg"
+    },
+    {
+      "id": "pentacles-08",
+      "name_en": "Eight of Pentacles",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Pents08.jpg"
+    },
+    {
+      "id": "pentacles-09",
+      "name_en": "Nine of Pentacles",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Pents09.jpg"
+    },
+    {
+      "id": "pentacles-10",
+      "name_en": "Ten of Pentacles",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Pents10.jpg"
+    },
+    {
+      "id": "pentacles-11",
+      "name_en": "Page of Pentacles",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Pents11.jpg"
+    },
+    {
+      "id": "pentacles-12",
+      "name_en": "Knight of Pentacles",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Pents12.jpg"
+    },
+    {
+      "id": "pentacles-13",
+      "name_en": "Queen of Pentacles",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Pents13.jpg"
+    },
+    {
+      "id": "pentacles-14",
+      "name_en": "King of Pentacles",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Pents14.jpg"
+    }
+  ]
+}
