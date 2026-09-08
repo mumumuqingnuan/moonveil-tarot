@@ -1,0 +1,32 @@
+{
+  "id": "./",
+  "name": "月隐塔罗 · Moonveil",
+  "short_name": "月隐塔罗",
+  "description": "78 张塔罗、12 种牌阵与空灵音境，随时开启一次与自己的对话。",
+  "lang": "zh-CN",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#271b33",
+  "theme_color": "#271b33",
+  "icons": [
+    {
+      "src": "./icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icons/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

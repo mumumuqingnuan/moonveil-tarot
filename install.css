@@ -1,0 +1,9 @@
+.install-heading{display:flex;gap:18px;align-items:center;margin-bottom:25px}
+.install-heading img{flex:0 0 72px;border-radius:17px}
+.install-heading p,.install-guide p{font-size:16px;line-height:1.8;color:var(--muted)}
+.install-guide{padding:22px 0 8px}
+.install-guide h3{font-size:18px;margin-bottom:10px}
+.install-guide p+p{margin-top:12px}
+.install-note{font-size:14px;color:var(--muted);border-top:1px solid var(--line);padding-top:16px;margin-top:14px}
+@media(max-width:930px){.top-actions .install-button>span{display:none}}
+@media(max-width:540px){.topbar{height:auto;min-height:100px;flex-wrap:wrap;padding:15px 0;gap:5px}.top-actions{margin-left:auto}.install-heading{align-items:flex-start;gap:13px}.install-heading img{width:56px;height:56px;flex-basis:56px}.install-heading h2{font-size:22px}.install-heading p{margin-top:6px}.install-dialog .install-guide p{font-size:16px}}
